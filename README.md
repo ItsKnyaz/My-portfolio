@@ -1,3 +1,3 @@
 # My-portfolio
 my portfolio website:
-httpsportfolio
+https://itsknyaz.github.io/My-portfolio/
