@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+TYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -7,8 +7,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
-<body>
-
+<body
     <!-- ===== Шапка (Hero) ===== -->
     <header class="hero">
         <div class="container">
@@ -16,18 +15,7 @@
             <p class="hero-subtitle">Школьник • Изучаю Python • Цель — стать SRE-инженером</p>
             <p class="hero-description">
                 Мне 15 лет, я школьник из России. Каждый день учу Python, интересуюсь Linux,
-                сетями и автоматизацией. Этот сайт — моё портфолио и дневник роста.
-            </p>
-            <div class="hero-buttons">
-                <a href="#projects" class="btn btn-primary">Мои проекты</a>
-                <a href="#contact" class="btn btn-outline">Связаться Tg:@lts_Knyaz </a>
-            </div>
-        </div>
-    </header>
-
-    <!-- ===== Навигация ===== -->
-    <nav class="navbar">
-        <div class="container nav-container">
+                сетями и автоматизацией. Этот сайт — моё портфолио и дневник ро        <div class="container nav-container">
             <a href="#" class="nav-logo">&lt;SRE_junior/&gt;</a>
             <ul class="nav-links">
                 <li><a href="#about">Обо мне</a></li>
@@ -99,7 +87,7 @@
                     <h3>Git & GitHub</h3>
                     <div class="skill-bar"><div class="skill-fill" style="width: 25%;"></div></div>
                     <span class="skill-level">commit, push, pull, branches</span>
-                </div>
+                </div
                 <div class="skill-card">
                     <i class="fa-solid fa-code skill-icon"></i>
                     <h3>HTML & CSS</h3>
@@ -189,62 +177,4 @@
                     </div>
                     <a href="#" class="btn btn-sm btn-primary">Смотреть</a>
                 </div>
-                <div class="project-card">
-                    <div class="project-icon"><i class="fa-brands fa-python"></i></div>
-                    <h3>CLI-утилита на Python</h3>
-                    <p>Консольная программа для автоматизации (в процессе).</p>
-                    <div class="project-tags">
-                        <span>Python</span><span>Click</span><span>CLI</span>
-                    </div>
-                    <a href="#" class="btn btn-sm btn-outline">Скоро</a>
-                </div>
-                <div class="project-card">
-                    <div class="project-icon"><i class="fa-solid fa-server"></i></div>
-                    <h3>Мониторинг сервера</h3>
-                    <p>Скрипт для сбора метрик CPU/RAM/диск (запланирован).</p>
-                    <div class="project-tags">
-                        <span>Python</span><span>psutil</span><span>Linux</span>
-                    </div>
-                    <a href="#" class="btn btn-sm btn-outline">Скоро</a>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- ===== Контакты ===== -->
-    <section id="contact" class="section">
-        <div class="container">
-            <h2 class="section-title">Связаться со мной Tg:@lts_Knyaz</h2>
-            <p class="section-subtitle">Буду рад общению, советам и менторству</p>
-            <div class="contact-grid">
-                <a href="https://t.me/lts_Knyaz" class="contact-card" target="_blank" rel="noopener">
-                    <i class="fa-brands fa-telegram"></i>
-                    <span>Telegram</span>
-                </a>
-                <a href="https://github.com/ItsKnyaz" class="contact-card" target="_blank" rel="noopener">
-                    <i class="fa-brands fa-github"></i>
-                    <span>GitHub</span>
-                </a>
-                <a href="mailto:KnazevSergey.0412@email.com" class="contact-card">
-                    <i class="fa-solid fa-envelope"></i>
-                    <span>Email</span>
-                </a>
-                <a href="#" class="contact-card">
-                    <i class="fa-brands fa-linkedin"></i>
-                    <span>LinkedIn (скоро)</span>
-                </a>
-            </div>
-        </div>
-    </section>
-
-    <!-- ===== Футер ===== -->
-    <footer class="footer">
-        <div class="container">
-            <p>© 2026 Сергей — Будущий SRE-инженер</p>
-            <p class="footer-meta">Сделано с нуля на HTML, CSS и JS. Хостинг: GitHub Pages.</p>
-        </div>
-    </footer>
-
-    <script src="script.js"></script>
-</body>
-</html>
+                <div class="p
